@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29009.5
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZavrsnoPonavljanje3dNiOP", "ZavrsnoPonavljanje3dNiOP\ZavrsnoPonavljanje3dNiOP.csproj", "{9395B769-99A0-47DD-B18B-FAE345CE2FAB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9395B769-99A0-47DD-B18B-FAE345CE2FAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9395B769-99A0-47DD-B18B-FAE345CE2FAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9395B769-99A0-47DD-B18B-FAE345CE2FAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9395B769-99A0-47DD-B18B-FAE345CE2FAB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {23D6A481-A7F7-4C6E-84E3-D2C17AB5E420}
+	EndGlobalSection
+EndGlobal

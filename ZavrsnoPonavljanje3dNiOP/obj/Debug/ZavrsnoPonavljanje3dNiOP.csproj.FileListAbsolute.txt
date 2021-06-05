@@ -1,0 +1,7 @@
+C:\Users\Mato\source\repos\ZavrsnoPonavljanje3dNiOP\ZavrsnoPonavljanje3dNiOP\bin\Debug\ZavrsnoPonavljanje3dNiOP.exe.config
+C:\Users\Mato\source\repos\ZavrsnoPonavljanje3dNiOP\ZavrsnoPonavljanje3dNiOP\bin\Debug\ZavrsnoPonavljanje3dNiOP.exe
+C:\Users\Mato\source\repos\ZavrsnoPonavljanje3dNiOP\ZavrsnoPonavljanje3dNiOP\bin\Debug\ZavrsnoPonavljanje3dNiOP.pdb
+C:\Users\Mato\source\repos\ZavrsnoPonavljanje3dNiOP\ZavrsnoPonavljanje3dNiOP\obj\Debug\ZavrsnoPonavljanje3dNiOP.csprojAssemblyReference.cache
+C:\Users\Mato\source\repos\ZavrsnoPonavljanje3dNiOP\ZavrsnoPonavljanje3dNiOP\obj\Debug\ZavrsnoPonavljanje3dNiOP.csproj.CoreCompileInputs.cache
+C:\Users\Mato\source\repos\ZavrsnoPonavljanje3dNiOP\ZavrsnoPonavljanje3dNiOP\obj\Debug\ZavrsnoPonavljanje3dNiOP.exe
+C:\Users\Mato\source\repos\ZavrsnoPonavljanje3dNiOP\ZavrsnoPonavljanje3dNiOP\obj\Debug\ZavrsnoPonavljanje3dNiOP.pdb
